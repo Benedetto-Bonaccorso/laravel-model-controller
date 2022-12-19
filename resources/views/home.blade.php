@@ -7,10 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    
-    <h1>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa</h1>
 
-    <h1>{{$data}}</h1>
+    <h1>{{$movies}}</h1>
 
 </body>
 </html>
